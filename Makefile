@@ -13,6 +13,6 @@ source:
 
 
 show:
-	evince $(SOURCE).pdf
+	xdg-open $(SOURCE).pdf
 
 
